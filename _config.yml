@@ -14,10 +14,10 @@ collections:
       number: 10
 typography_spectrum: 0
 color:
-  brandStrength: 0.6195368
-  lightness: 0.8276595
-  saturation: 1
-  rhythmicContrast: 0.5531915
+  brandStrength: 0
+  lightness: 1
+  saturation: 0.004255319
+  rhythmicContrast: 0.07446808
   brandColors:
     - '#A690A4'
     - '#B68F9D'
