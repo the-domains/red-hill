@@ -12,7 +12,7 @@ collections:
       format: rss
       path: /rss.xml
       number: 10
-typography_spectrum: 1
+typography_spectrum: 0
 color:
   brandStrength: 0.6195368
   lightness: 0
