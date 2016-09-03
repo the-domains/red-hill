@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Red Hill]]></title>
         <description><![CDATA[Red Hill]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/red-hill/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 03:27:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 01 Sep 2016 06:08:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/red-hill/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[付出價格，得到價值。]]></title>
+            <description><![CDATA[<article><h1>付出價格，得到價值。</h1><p>什麼是價值投資？價值投資代表什麼？你又要怎麼利用這個投資策略呢？更重要的是，價值投資有用嗎？關於這些問題，我會在本篇文章中為大家解答。讀者可以把本文當作入門、或者是重新探索價值投資這個美好世界的文章。 價值投資是一種投資策略，這個策略主要是班傑明・葛拉漢(Benjamin ...</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/342e8d7e162f9d6706c2486c7be5d97a/noop.png?input=http%3A%2F%2Fstockfeel.azureedge.net%2Fwp-content%2Fuploads%2F2012%2F09%2FDMS2149-ValueWalk-%25E4%25BB%2580%25E9%25BA%25BC%25E6%2598%25AF%25E5%2583%25B9%25E5%2580%25BC%25E6%258A%2595%25E8%25B3%2587_%25E8%25AB%2587%25E5%2583%25B9%25E5%2580%25BC%25E6%258A%2595%25E8%25B3%2587%25E7%259A%25845%25E5%25A4%25A7%25E6%2594%25AF%25E6%259F%25B1.png%3Ff92f53"></article>]]></description>
+            <link>http://www.stockfeel.com.tw/%e4%bb%80%e9%ba%bc%e6%98%af%e5%83%b9%e5%80%bc%e6%8a%95%e8%b3%87%ef%bc%9f%e4%ba%86%e8%a7%a3%e5%83%b9%e5%80%bc%e6%8a%95%e8%b3%87%e7%9a%845%e5%a4%a7%e6%94%af%e6%9f%b1/</link>
+            <guid isPermaLink="false">094d4da5-8af2-49fb-93e7-b1a3c2b4e274</guid>
+            <pubDate>Thu, 01 Sep 2016 06:08:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rewriting the Tablet: How Lenovo brought a dream design to life]]></title>
             <description><![CDATA[<article><h1>Rewriting the Tablet: How Lenovo brought a dream design to life</h1><p>聯想</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/1c73c299069c6c90f959b4a2571e7543/noop.jpg?input=https%3A%2F%2Fcdn3.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F7019939%2Fsokane_160812_1184_yoga_book-0787.0.jpg"></article>]]></description>
