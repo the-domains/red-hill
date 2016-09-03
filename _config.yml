@@ -1,26 +1,26 @@
+layout_spectrum: 0.6723405
+name: Red Hill
 collections:
   - index:
+      paginate: true
       path: /
       number: 15
-      paginate: true
       navigable: true
     feed:
-      path: /rss.xml
       format: rss
+      path: /rss.xml
       number: 10
     permalink:
       path: '/:title/'
 color:
-  saturation: 1
   brandStrength: 1
-  lightness: 1
+  saturation: 1
   brandColors:
     - '#FFFFFF'
     - '#FF74BC'
     - '#333541'
     - '#BD3668'
     - '#4AB1E3'
+  lightness: 1
   rhythmicContrast: 1
-typography_spectrum: 0.5150376
-layout_spectrum: 0.275653
-name: Red Hill
+typography_spectrum: 0.3638298
