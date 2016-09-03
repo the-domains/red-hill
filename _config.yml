@@ -20,7 +20,7 @@ color:
     - '#B4B9B5'
     - '#384B52'
     - '#CED9D3'
-  rhythmicContrast: 0
+  rhythmicContrast: 1
 typography_spectrum: 0.5150376
 layout_spectrum: 0.275653
 name: Red Hill
