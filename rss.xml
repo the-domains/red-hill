@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Red Hill]]></title>
+        <description><![CDATA[Red Hill]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 01 Sep 2016 03:27:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rewriting the Tablet: How Lenovo brought a dream design to life]]></title>
+            <description><![CDATA[<article><h1>Rewriting the Tablet: How Lenovo brought a dream design to life</h1><p>聯想</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/1c73c299069c6c90f959b4a2571e7543/noop.jpg?input=https%3A%2F%2Fcdn3.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F7019939%2Fsokane_160812_1184_yoga_book-0787.0.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/8/31/12713442/lenovo-yoga-book-tablet-design-interview-android-windows</link>
+            <guid isPermaLink="false">6c33a279-f275-4042-a8d4-0b92774f7a5a</guid>
+            <pubDate>Thu, 01 Sep 2016 03:27:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
