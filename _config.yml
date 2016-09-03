@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
-  saturation: 1
+  saturation: 0
   brandStrength: 0
-  lightness: 1
+  lightness: 0
   brandColors:
     - '#A690A4'
     - '#B68F9D'
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  rhythmicContrast: 1
-typography_spectrum: 0
-layout_spectrum: 0.2893617
+  rhythmicContrast: 0
+typography_spectrum: 0.5150376
+layout_spectrum: 0.9348371
 name: Red Hill
