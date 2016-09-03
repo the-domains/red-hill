@@ -13,7 +13,7 @@ collections:
 color:
   saturation: 0
   brandStrength: 0
-  lightness: 0
+  lightness: 0.508862
   brandColors:
     - '#A690A4'
     - '#B68F9D'
